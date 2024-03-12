@@ -12,7 +12,7 @@ module.exports = async (client, interaction, args) => {
         },
         {
             name: "🏷┆Discord tag",
-            value: `</Corwin>#0001`,
+            value: `@sheluvs.drake#7829`,
             inline: true,
         },
         {
