@@ -52,7 +52,7 @@ module.exports = {
 
         return client.embed({
             title: `❓・Help panel`,
-            desc: `Welcome to Bot's help panel! We have made a small overview to help you! Make a choice via the menu below`,
+            desc: `Welcome to Horizon HQ's help panel! We have made a small overview to help you! Make a choice via the menu below`,
             image: "https://cdn.discordapp.com/attachments/843487478881976381/874694194474668052/Bot_banner_invite.jpg",
             fields: [
                 {
@@ -65,7 +65,7 @@ module.exports = {
                 },
                 {
                     name: `🔗┆Links`,
-                    value: `[Website](https://corwindev.nl/) | [Invite](${client.config.discord.botInvite}) | [Vote](https://top.gg/bot/798144456528363550/vote)`
+                    value: `[Join Our Server](https://discord.gg/h8dY8SF7RX) | [Invite](${client.config.discord.botInvite}) | [Vote](https://top.gg/bot/798144456528363550/vote)`
                 },
             ],
             components: [row],
