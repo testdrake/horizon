@@ -19,7 +19,7 @@ module.exports = async (client, interaction, args) => {
             const duration = moment.duration(client.uptime).format("\`D\` [days], \`H\` [hrs], \`m\` [mins], \`s\` [secs]");
 
             client.embed({
-                title: `ℹ・Bot information`,
+                title: `Horizon HQ・Bot information`,
                 desc: `____________________________`,
                 thumbnail: client.user.avatarURL({ size: 1024 }),
                 fields: [
