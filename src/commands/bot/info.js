@@ -25,7 +25,7 @@ module.exports = async (client, interaction, args) => {
                 fields: [
                {
                     name: "ℹ️┆Information",
-                    value: `Bot is a bot with which you can run your entire server! With no less than 350+ commands, we have a large bot with many options to improve your server!`,
+                    value: `Horizon HQ is a bot with which you can run your entire server! With no less than 350+ commands, we have a large bot with many options to improve your server!`,
                     inline: false,
                 },
                 {
