@@ -50,12 +50,12 @@ module.exports = async (client, interaction, args) => {
                 },
                 {
                     name: "🔧┆Bot owner",
-                    value: `<@!755297485328482356> `,
+                    value: `<@1044089744230994011> `,
                     inline: true,
                 },
                 {
                     name: "🔧┆Bot developer",
-                    value: `<@!755297485328482356> <@!884553151666061372>`,
+                    value: `<@1044089744230994011>`,
                     inline: true,
                 },
                 {
@@ -131,7 +131,7 @@ module.exports = async (client, interaction, args) => {
                 },
                 {
                     name: "🔗┆Links",
-                    value: `Add me: [[HERE]](${client.config.discord.botInvite}) \nSupport server: [[HERE]](${client.config.discord.serverInvite})`,
+                    value: `Add me: [[HERE]](https://discord.com/oauth2/authorize?client_id=1217203597603897535&permissions=8&scope=bot) \nSupport server: [[HERE]](https://discord.gg/h8dY8SF7RX)`,
                     inline: false,
                 }],
                 type: 'editreply'
