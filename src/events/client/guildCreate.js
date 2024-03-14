@@ -73,7 +73,7 @@ module.exports = async (client, guild) => {
             },
             {
                 name: "☎️┆I need help what now?",
-                value: `You can DM <@755297485328482356> for support or joining the [[Support server]](${client.config.discord.serverInvite})`,
+                value: `You can DM <@1044089744230994011> for support or joining the [[Support server]](${client.config.discord.serverInvite})`,
                 inline: false,
             },
             {
