@@ -50,7 +50,7 @@ module.exports = {
                         client.embed({
                             title: `ℹ️・Information`,
                             author: {
-                                name: "Horizon",
+                                name: "TechPoint",
                                 iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                             },
                             thumbnail: "https://media.discordapp.net/attachments/937337957419999272/937463192265846784/techpoint_logo_Bot.jpg?width=812&height=812",
@@ -69,11 +69,11 @@ module.exports = {
                                 },
                                 {
                                     name: `🔗┆Other servers from us`,
-                                    value: `[Horizon](https://discord.gg/h8dY8SF7RX) - Get help with code, tech and crypto while you read the latest news\n[Ban Appeal](https://discord.gg/htf9pHNRxA) - Got banned? Request an unban`,
+                                    value: `[Tech server](https://discord.gg/bEJhVa6Ttv) - Get help with code, tech and crypto while you read the latest news\n[Ban Appeal](https://discord.gg/htf9pHNRxA) - Got banned? Request an unban`,
                                 },
                             ],
                             footer: {
-                                text: `© Horizon - 2022`,
+                                text: `© TechPoint - 2022`,
                                 iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                             }
                         }, interaction.channel)
@@ -134,7 +134,7 @@ module.exports = {
                                 }
                             ],
                             footer: {
-                                text: `© Horizon - 2022`,
+                                text: `© TechPoint - 2022`,
                                 iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                             }
                         }, interaction.channel)
@@ -148,7 +148,7 @@ module.exports = {
                         client.embed({
                             title: `💼・Applications`,
                             author: {
-                                name: "Horizon",
+                                name: "TechPoint",
                                 iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                             },
                             thumbnail: "https://media.discordapp.net/attachments/937337957419999272/937463192265846784/techpoint_logo_Bot.jpg?width=812&height=812",
@@ -156,7 +156,7 @@ module.exports = {
                             fields: [
                                 {
                                     name: `👥┆A very nice team`,
-                                    value: `In the Horizon Network team there is always a pleasant atmosphere and everyone is treated equally!`,
+                                    value: `In the Techpoint Network team there is always a pleasant atmosphere and everyone is treated equally!`,
                                 },
                                 {
                                     name: `🥳┆Access to the beta program`,
@@ -194,7 +194,7 @@ module.exports = {
                         client.embed({
                             title: `🎫・Helpdesk`,
                             author: {
-                                name: "Horizon",
+                                name: "TechPoint",
                                 iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                             },
                             thumbnail: "https://media.discordapp.net/attachments/937337957419999272/937463192265846784/techpoint_logo_Bot.jpg?width=812&height=812",
@@ -214,7 +214,7 @@ module.exports = {
                                 },
                             ],
                             footer: {
-                                text: `© Horizon - 2022`,
+                                text: `© TechPoint - 2022`,
                                 iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                             }
                         }, interaction.channel)
@@ -236,7 +236,7 @@ module.exports = {
                             desc: `Techpoint Network is a network that consists of 3 servers. Each server has its own function. One is for tech/coding/crypto and the other for support. We also have 1 extra server for ban appeals, read all information below`,
                             fields: [
                                 {
-                                    name: `💻┇Horizon`,
+                                    name: `💻┇TechPoint`,
                                     value: `This is a server that mainly focused on everything that revolves around tech. For example, think of encryption, crypt or all new gadgets. Meet new people or learn more about tech yourself!. You can join this server by clicking [this](https://discord.gg/bEJhVa6Ttv) link`,
                                 },
                                 {
@@ -244,12 +244,12 @@ module.exports = {
                                     value: `This is the server you are currently on. All information about this server can be found in. You can get the link from this server to click on [this](https://discord.gg/GqhD6RNbzs) link`,
                                 },
                                 {
-                                    name: `🔨┇Horizon Ban Appeal`,
+                                    name: `🔨┇TechPoint Ban Appeal`,
                                     value: `This server is for the people who are banned from a server or from the bots. You can create a ticket here to request an unban and to participate in the servers again or to be able to use the bots again. You can join this server by clicking [this](https://discord.gg/q9jZrDk9n6) link`,
                                 },
                             ],
                             footer: {
-                                text: `© Horizon - 2022`,
+                                text: `© TechPoint - 2022`,
                                 iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                             }
                         }, interaction.channel)
@@ -264,7 +264,7 @@ module.exports = {
                         client.embed({
                             title: `ℹ・Bot(s) Information`,
                             author: {
-                                name: "Horizon",
+                                name: "TechPoint",
                                 iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                             },
                             thumbnail: "https://media.discordapp.net/attachments/937337957419999272/937463192265846784/techpoint_logo_Bot.jpg?width=812&height=812",
@@ -288,7 +288,7 @@ module.exports = {
                                 },
                             ],
                             footer: {
-                                text: `© Horizon - 2022`,
+                                text: `© TechPoint - 2022`,
                                 iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                             }
                         }, interaction.channel)
@@ -372,7 +372,7 @@ module.exports = {
                     //             }
                     //         ],
                     //         footer: {
-                    //             text: `© Horizon - 2022`,
+                    //             text: `© TechPoint - 2022`,
                     //             iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                     //         }
                     //     }, interaction.channel)
@@ -387,7 +387,7 @@ module.exports = {
                         client.embed({
                             title: `🐞・Béta`,
                             author: {
-                                name: "Horizon",
+                                name: "TechPoint",
                                 iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                             },
                             thumbnail: "https://media.discordapp.net/attachments/937337957419999272/937463192265846784/techpoint_logo_Bot.jpg?width=812&height=812",
@@ -407,7 +407,7 @@ module.exports = {
                                 }
                             ],
                             footer: {
-                                text: `© Horizon - 2022`,
+                                text: `© TechPoint - 2022`,
                                 iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                             }
                         }, interaction.channel)
@@ -422,7 +422,7 @@ module.exports = {
                         client.embed({
                             title: `${client.user.username}・Dcredits`,
                             author: {
-                                name: "Horizon",
+                                name: "TechPoint",
                                 iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                             },
                             thumbnail: "https://media.discordapp.net/attachments/937337957419999272/937463192265846784/techpoint_logo_Bot.jpg?width=812&height=812",
@@ -449,7 +449,7 @@ module.exports = {
                                 }
                             ],
                             footer: {
-                                text: `© Horizon - 2022`,
+                                text: `© TechPoint - 2022`,
                                 iconURL: "https://media.discordapp.net/attachments/937337957419999272/937797574440681472/techpoint_logo-min.jpg?width=812&height=812"
                             }
                         }, interaction.channel)
